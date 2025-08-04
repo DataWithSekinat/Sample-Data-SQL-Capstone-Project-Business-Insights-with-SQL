@@ -8,7 +8,7 @@ A hands-on SQL project to extract real business insights using the sample data d
 - [Objective](#objective)
 - [Tools](#tools)
 - [Dataset Information](#dataset-Information)
-- Business Questions(#business-questions)
+- [Business Questions](#business-questions)
 - [Insights](#insights)
 - [Recommendations](#recommendations)
 - [Project Structure](#project-structure)
